@@ -100,7 +100,8 @@ while converge == False :
     
     E_temp = error
     i=i+1 
-    print (i , " iteration, the error is " , error)
+    if (i%10000 ==0):
+        print (i , " iteration, the error is " , error)
 
 
 price_new = TESTS*W
@@ -136,7 +137,7 @@ for i in range (20000):
             price_model = Features*W
             class_train_model = np.sign(price_model) #modeled classification for train set
             accuracy_train = ((len(train))-np.count_nonzero(class_train_true - class_train_model))/(len(train))
-            if(i%100==0):
+            if(i%1000==0):
                 print("The model can now classify the price of houses with accuracy of ",
                     accuracy_train, " for the training set.")
     
