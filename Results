@@ -1,0 +1,106 @@
+10000  iteration, the error is  0.192758199547
+20000  iteration, the error is  0.167045704641
+30000  iteration, the error is  0.145547914751
+40000  iteration, the error is  0.127500009388
+50000  iteration, the error is  0.112308581454
+60000  iteration, the error is  0.0994968342895
+70000  iteration, the error is  0.0886742435813
+80000  iteration, the error is  0.0795176770802
+90000  iteration, the error is  0.0717583310492
+100000  iteration, the error is  0.0651719550094
+110000  iteration, the error is  0.0595711656564
+120000  iteration, the error is  0.0547992300845
+130000  iteration, the error is  0.0507249602906
+140000  iteration, the error is  0.0472384868194
+150000  iteration, the error is  0.0442477457366
+160000  iteration, the error is  0.0416755522693
+170000  iteration, the error is  0.0394571603459
+180000  iteration, the error is  0.0375382260359
+190000  iteration, the error is  0.035873107353
+200000  iteration, the error is  0.0344234444554
+210000  iteration, the error is  0.033156973717
+220000  iteration, the error is  0.0320465369235
+Converged ! Final error is  0.0317289043253
+Test error for this model is  0.0695368044253
+Now Perceptron: 
+The model can now classify the price of houses with accuracy of  0.5862068965517241  for the training set.
+The model can now classify the price of houses with accuracy of  0.5862068965517241  for the training set.
+The model can now classify the price of houses with accuracy of  0.41379310344827586  for the training set.
+The model can now classify the price of houses with accuracy of  0.41379310344827586  for the training set.
+The model can now classify the price of houses with accuracy of  0.5862068965517241  for the training set.
+The model can now classify the price of houses with accuracy of  0.5862068965517241  for the training set.
+The model can now classify the price of houses with accuracy of  0.41379310344827586  for the training set.
+The model can now classify the price of houses with accuracy of  0.6551724137931034  for the training set.
+The model can now classify the price of houses with accuracy of  0.41379310344827586  for the training set.
+The model can now classify the price of houses with accuracy of  0.5172413793103449  for the training set.
+The model can now classify the price of houses with accuracy of  0.5862068965517241  for the training set.
+The model can now classify the price of houses with accuracy of  0.5  for the training set.
+The model can now classify the price of houses with accuracy of  0.5862068965517241  for the training set.
+The model can now classify the price of houses with accuracy of  0.41379310344827586  for the training set.
+The model can now classify the price of houses with accuracy of  0.5862068965517241  for the training set.
+The model can now classify the price of houses with accuracy of  0.41379310344827586  for the training set.
+The model can now classify the price of houses with accuracy of  0.603448275862069  for the training set.
+The model can now classify the price of houses with accuracy of  0.41379310344827586  for the training set.
+The model can now classify the price of houses with accuracy of  0.4482758620689655  for the training set.
+The model can now classify the price of houses with accuracy of  0.5862068965517241  for the training set.
+The model can now classify the price of houses with accuracy of  0.7413793103448276  for the training set.
+The model can now classify the price of houses with accuracy of  0.41379310344827586  for the training set.
+The model can now classify the price of houses with accuracy of  0.5689655172413793  for the training set.
+The model can now classify the price of houses with accuracy of  0.5862068965517241  for the training set.
+The model can now classify the price of houses with accuracy of  0.7413793103448276  for the training set.
+The model can now classify the price of houses with accuracy of  0.41379310344827586  for the training set.
+The model can now classify the price of houses with accuracy of  0.6724137931034483  for the training set.
+The model can now classify the price of houses with accuracy of  0.5862068965517241  for the training set.
+The model can now classify the price of houses with accuracy of  0.9655172413793104  for the training set.
+The model can now classify the price of houses with accuracy of  0.8275862068965517  for the training set.
+The model can now classify the price of houses with accuracy of  0.9655172413793104  for the training set.
+The model can now classify the price of houses with accuracy of  0.8275862068965517  for the training set.
+The model can now classify the price of houses with accuracy of  0.9655172413793104  for the training set.
+The model can now classify the price of houses with accuracy of  0.8275862068965517  for the training set.
+The model can now classify the price of houses with accuracy of  0.9827586206896551  for the training set.
+The model can now classify the price of houses with accuracy of  0.8275862068965517  for the training set.
+The model can now classify the price of houses with accuracy of  0.9827586206896551  for the training set.
+The model can now classify the price of houses with accuracy of  0.8275862068965517  for the training set.
+The model can now classify the price of houses with accuracy of  0.9655172413793104  for the training set.
+The model can now classify the price of houses with accuracy of  0.8275862068965517  for the training set.
+The model can now classify the price of houses with accuracy of  0.9827586206896551  for the training set.
+The model can now classify the price of houses with accuracy of  0.8620689655172413  for the training set.
+The model can now classify the price of houses with accuracy of  0.9482758620689655  for the training set.
+The model can now classify the price of houses with accuracy of  0.896551724137931  for the training set.
+The model can now classify the price of houses with accuracy of  0.896551724137931  for the training set.
+The model can now classify the price of houses with accuracy of  0.9482758620689655  for the training set.
+The model can now classify the price of houses with accuracy of  0.8793103448275862  for the training set.
+The model can now classify the price of houses with accuracy of  0.9310344827586207  for the training set.
+The model can now classify the price of houses with accuracy of  0.896551724137931  for the training set.
+The model can now classify the price of houses with accuracy of  0.8793103448275862  for the training set.
+The model can now classify the price of houses with accuracy of  0.7586206896551724  for the training set.
+The model can now classify the price of houses with accuracy of  0.9655172413793104  for the training set.
+The model can now classify the price of houses with accuracy of  0.9655172413793104  for the training set.
+The model can now classify the price of houses with accuracy of  0.8275862068965517  for the training set.
+The model can now classify the price of houses with accuracy of  0.9310344827586207  for the training set.
+The model can now classify the price of houses with accuracy of  0.7758620689655172  for the training set.
+The model can now classify the price of houses with accuracy of  0.9482758620689655  for the training set.
+The model can now classify the price of houses with accuracy of  0.9827586206896551  for the training set.
+The model can now classify the price of houses with accuracy of  0.8620689655172413  for the training set.
+The model can now classify the price of houses with accuracy of  0.9655172413793104  for the training set.
+The model can now classify the price of houses with accuracy of  0.8620689655172413  for the training set.
+The model can now classify the price of houses with accuracy of  0.896551724137931  for the training set.
+The model can now classify the price of houses with accuracy of  0.9655172413793104  for the training set.
+The model can now classify the price of houses with accuracy of  0.9137931034482759  for the training set.
+The model can now classify the price of houses with accuracy of  0.9827586206896551  for the training set.
+The model can now classify the price of houses with accuracy of  0.896551724137931  for the training set.
+The model can now classify the price of houses with accuracy of  0.9482758620689655  for the training set.
+The model can now classify the price of houses with accuracy of  0.8793103448275862  for the training set.
+The model can now classify the price of houses with accuracy of  0.896551724137931  for the training set.
+The model can now classify the price of houses with accuracy of  0.7931034482758621  for the training set.
+The model can now classify the price of houses with accuracy of  0.9482758620689655  for the training set.
+The model can now classify the price of houses with accuracy of  0.9655172413793104  for the training set.
+The model can now classify the price of houses with accuracy of  0.8448275862068966  for the training set.
+The model can now classify the price of houses with accuracy of  0.9655172413793104  for the training set.
+The model can now classify the price of houses with accuracy of  0.8275862068965517  for the training set.
+The model can now classify the price of houses with accuracy of  0.9827586206896551  for the training set.
+The model can now classify the price of houses with accuracy of  0.8620689655172413  for the training set.
+The model can now classify the price of houses with accuracy of  0.8103448275862069  for the training set.
+The model can now classify the price of houses with accuracy of  0.9655172413793104  for the training set.
+The model can now classify the price of houses with accuracy of  0.8275862068965517  for the training set.
+The model can classify the price of houses with accuracy of  0.8275862068965517  for the training set, and  0.8  for the test set
